@@ -1,0 +1,16 @@
+{
+  "name": "addicted-to-cinema",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Marc Lopez Torrent <marclopeztorrent@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-router-dom": "^5.3.0"
+  }
+}
